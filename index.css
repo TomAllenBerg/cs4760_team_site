@@ -19,3 +19,8 @@
 a {
 	color: #d7d6d8 !important;
 }
+
+.burndown {
+	height:40vh;
+	width:auto;
+}

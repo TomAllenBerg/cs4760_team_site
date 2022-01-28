@@ -8,11 +8,11 @@
     <title>Team Meeting One</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="/classes/cs4760/www/projects/s22/group1/www/index.css">
 </head>
 <body>
 <?php
-include './sidebar.php';
+include '/classes/cs4760/www/projects/s22/group1/www/sidebar.php';
 ?>
       <div class="col py-3">
                 <div class="col min-vh-100 py-3">
@@ -28,14 +28,14 @@ include './sidebar.php';
                           <li>Quick <a href="http://cs4760.csl.mtu.edu/2022/lectures/interactive-3d-graphics-on-the-web/">review</a>
                               of
                               the project as it currently stands</li>
-                          <li>Prepare <a href="../scientist-meetings/Pre-Interview-Doc1.pdf">Pre-interview Notes</a> (Assignment 3)</li>
+                          <li>Prepare <a href="/classes/cs4760/www/projects/s22/group1/www/scientist-meetings/Pre-Interview-Doc1.pdf">Pre-interview Notes</a> (Assignment 3)</li>
                           <li>Discuss next steps in learning new technologies associated with the project/development (if time)</li>
                       </ol>
                   </div>
                   <br />
                   <div>
                       <h2>Meeting One Minutes</h2>
-                      <p>See minutes <a href="./1_14_Meeting_Minutes.pdf">here</a></p>
+                      <p>See minutes <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/1_14_Meeting_Minutes.pdf">here</a></p>
                   </div>
                 </div>
       </div>
