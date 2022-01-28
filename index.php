@@ -33,12 +33,12 @@
 										<br/><br/>
 										<div>
 										  <h3>Scientist Meetings</h3>
-										  <a href="./scientist-meetings/scientist_meeting_one.html">Meeting One</a><br/>
+										  <a href="scientist_meeting_one.php">Meeting One</a><br/>
 										</div>
 										<br/><br/>
 										<div>
 										  <h3>Miscellaneous Files</h3>
-										  <a href="./miscellaneous/App-Description.pdf">App Description</a><br/>
+										  <a href="miscellaneous/App-Description.pdf">App Description</a><br/>
 										</div>
 									</div>
         </div>
