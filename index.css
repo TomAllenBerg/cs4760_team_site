@@ -1,3 +1,21 @@
 * {
 	font-family: system-ui;
 }
+
+.col.py-3 {
+    background-color: #28272d !important;
+    color: #d7d6d8 !important;
+}
+
+.bg-dark {
+	background-color: #2c2b30 !important;
+	color: #d7d6d8 !important;
+}
+
+.nav-link {
+	color: #d7d6d8 !important;
+}
+
+a {
+	color: #d7d6d8 !important;
+}
