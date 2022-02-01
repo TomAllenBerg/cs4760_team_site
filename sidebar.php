@@ -13,6 +13,15 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
+                          <i class="fas-4 bi-file-easel"></i> <span class="ms-1 d-none d-sm-inline">Prototypes</span></div>
+                      <ul class=" show nav flex-column ms-1" id="submen43" data-bs-parent="#menu">
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/prototype/CognitiveWalkthroughPresentation.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Cognitive Walkthrough</span> </a>
+                          </li>
+                      </ul>
+                  </li>
+                  <li>
+                      <div class="nav-link px-0 align-middle ">
                           <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">Team Meetings</span> </div>
                       <ul class=" show nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
                           <li class="w-100">
@@ -62,6 +71,9 @@
                           </li>
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/Scenarios.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Scenarios</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/SystemOverview.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">System Overview</span></a>
                           </li>
                       </ul>
                   </li>
