@@ -13,22 +13,21 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
-                          <i class="fs-4 bi-lightbulb"></i> <span class="ms-1 d-none d-sm-inline">Prototypes</span></div>
-                      <ul class=" show nav flex-column ms-1" id="submen43" data-bs-parent="#menu">
+                        <a href="#submenu0" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi-lightbulb"></i> <span class="ms-1 d-none d-sm-inline">Prototypes</span></a></div>
+                      <ul class="collapse nav flex-column ms-1" id="submenu0" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/prototype/CognitiveWalkthroughPresentation.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Cognitive Walkthrough</span> </a>
                           </li>
                       </ul>
                   </li>
-                  <a href="#submenu1" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                           <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline">Dashboard</span> </a>
                   <li>
                       <div class="nav-link px-0 align-middle ">
                         <a href="#submenu1" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
                            <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline">Team Meetings</span> </a>
                           <!-- <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">Team Meetings</span>  -->
                         </div>
-                      <ul class=" show nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
+                      <ul class="collapse nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 1 </a>
                           </li>
@@ -45,8 +44,9 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
-                          <i class="fs-4 bi-person-video2"></i> <span class="ms-1 d-none d-sm-inline">Scientist Meetings</span></div>
-                      <ul class=" show nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
+                        <a href="#submenu2" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi-person-video2"></i> <span class="ms-1 d-none d-sm-inline">Scientist Meetings</span></a></div>
+                      <ul class="collapse nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/scientist-meetings/scientist_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 1</a>
                           </li>
@@ -57,8 +57,9 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
-                          <i class="fs-4 bi-controller"></i> <span class="ms-1 d-none d-sm-inline">Interaction Design</span></div>
-                      <ul class=" show nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
+                        <a href="#submenu3" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi-controller"></i> <span class="ms-1 d-none d-sm-inline">Interaction Design</span></a></div>
+                      <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/Stakeholders.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Stakeholders</span></a>
                           </li>
@@ -84,8 +85,9 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
-                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></div>
-                      <ul class=" show nav flex-column ms-1" id="submen43" data-bs-parent="#menu">
+                        <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></a></div>
+                      <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/App-Description.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">App Description</span> 1</a>
                           </li>
