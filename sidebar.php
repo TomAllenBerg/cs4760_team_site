@@ -37,9 +37,6 @@
                           <li>
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 3 </a>
                           </li>
-                          <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_four.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 4 </a>
-                          </li>
                       </ul>
                   </li>
                   <li>
@@ -75,19 +72,22 @@
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/DataStore.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Data Store</span></a>
                           </li>
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/Scenarios.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Scenarios</span></a>
-                          </li>
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/SystemOverview.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">System Overview</span></a>
-                          </li>
                       </ul>
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
+<<<<<<< HEAD
                         <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
                           <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></a></div>
                       <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu">
+=======
+                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Design Changes</span></div>
+                  </li>
+                  <li>
+                      <div class="nav-link px-0 align-middle ">
+                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></div>
+                      <ul class=" show nav flex-column ms-1" id="submen43" data-bs-parent="#menu">
+>>>>>>> 32de3f20910c275431d3312a3ba4a0a598cfe855
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/App-Description.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">App Description</span> 1</a>
                           </li>
