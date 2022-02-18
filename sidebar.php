@@ -33,12 +33,6 @@
                           <li>
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 3 </a>
                           </li>
-<<<<<<< HEAD
-=======
-                          <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_four.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 4 </a>
-                          </li>
->>>>>>> be21490839a67482542ebcc1c2a2cde2f603e7f9
                       </ul>
                   </li>
                   <li>
@@ -72,15 +66,6 @@
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/DataStore.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Data Store</span></a>
                           </li>
-<<<<<<< HEAD
-=======
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/Scenarios.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Scenarios</span></a>
-                          </li>
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/interaction/SystemOverview.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">System Overview</span></a>
-                          </li>
->>>>>>> be21490839a67482542ebcc1c2a2cde2f603e7f9
                       </ul>
                   </li>
                   <li>
