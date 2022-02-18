@@ -78,13 +78,6 @@
                       <div class="nav-link px-0 align-middle ">
                         <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
                           <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></a></div>
-                      <ul class="collapse nav flex-column ms-1" id="submenu4" data-bs-parent="#menu">
-                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Design Changes</span></div>
-                  </li>
-                  <li>
-                      <div class="nav-link px-0 align-middle ">
-                        <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></a></div>
                       <ul class=" show nav flex-column ms-1" id="submenu4" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/App-Description.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">App Description</span> 1</a>
