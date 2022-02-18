@@ -85,6 +85,10 @@
                   </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
+                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Design Changes</span></div>
+                  </li>
+                  <li>
+                      <div class="nav-link px-0 align-middle ">
                           <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Miscellaneous Files</span></div>
                       <ul class=" show nav flex-column ms-1" id="submen43" data-bs-parent="#menu">
                           <li class="w-100">
