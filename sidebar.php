@@ -74,6 +74,29 @@
                           </li>
                       </ul>
                   </li>
+                   <li>
+                      <div class="nav-link px-0 align-middle ">
+                        <a href="#submenu5" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi bi-asterisk"></i> <span class="ms-1 d-none d-sm-inline">Design Changes (Feb 17)</span></a></div>
+                      <ul class=" collapse nav flex-column ms-1" id="submenu5" data-bs-parent="#menu">
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_17_Design_Review_Notes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Review Notes</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Change Document</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Task_Interaction_v2.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Task Interaction</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Align_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Align View</span></a>
+                          </li>
+                            <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Analyze_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Analyze View</span></a>
+                          </li>
+                          
+                      </ul>
+                  </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
                         <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
@@ -87,19 +110,7 @@
                           </li>
                       </ul>
                   </li>
-                  <li>
-                      <div class="nav-link px-0 align-middle ">
-                        <a href="#submenu5" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Design Changes</span></a></div>
-                      <ul class=" collapse nav flex-column ms-1" id="submenu5" data-bs-parent="#menu">
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_15_Design_Review_Notes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">2/15 Design Review Notes</span> 1</a>
-                          </li>
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">2/18 Design Change Document</span>2</a>
-                          </li>
-                      </ul>
-                  </li>
+                 
               </ul>
               <hr>
 
