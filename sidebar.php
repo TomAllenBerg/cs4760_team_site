@@ -83,16 +83,16 @@
                               <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_17_Design_Review_Notes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Review Notes</span></a>
                           </li>
                           <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Change Document</span></a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Change Document</span></a>
                           </li>
                           <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Task_Interaction_v2.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Task Interaction</span></a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Task_Interaction_v2.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Task Interaction</span></a>
                           </li>
                           <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Align_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Align View</span></a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Align_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Align View</span></a>
                           </li>
                             <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Analyze_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Analyze View</span></a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Analyze_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Analyze View</span></a>
                           </li>
                           
                       </ul>
