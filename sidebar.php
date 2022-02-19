@@ -29,13 +29,22 @@
                         </div>
                       <ul class="collapse nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
                           <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 1 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/14) </a>
                           </li>
                           <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_two.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 2 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_two.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/21) </a>
                           </li>
                           <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 3 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/28) </a>
+                          </li>
+                           <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/1_29_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/29) </a>
+                          </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_4_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/4) </a>
+                          </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_8_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/8) </a>
                           </li>
                       </ul>
                   </li>
