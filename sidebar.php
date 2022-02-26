@@ -29,13 +29,22 @@
                         </div>
                       <ul class="collapse nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
                           <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 1 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_one.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/14) </a>
                           </li>
                           <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_two.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 2 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_two.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/21) </a>
                           </li>
                           <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> 3 </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/team_meeting_three.php" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/28) </a>
+                          </li>
+                           <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/1_29_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (1/29) </a>
+                          </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_4_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/4) </a>
+                          </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_18_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/18) </a>
                           </li>
                       </ul>
                   </li>
@@ -74,6 +83,28 @@
                           </li>
                       </ul>
                   </li>
+                   <li>
+                      <div class="nav-link px-0 align-middle ">
+                        <a href="#submenu5" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                          <i class="fs-4 bi bi-asterisk"></i> <span class="ms-1 d-none d-sm-inline">Design Changes (Feb 17)</span></a></div>
+                      <ul class=" collapse nav flex-column ms-1" id="submenu5" data-bs-parent="#menu">
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_17_Design_Review_Notes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Review Notes</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Design Change Document</span></a>
+                          </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Task_Interaction_v2.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Task Interaction</span></a>
+                          </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Align_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Align View</span></a>
+                          </li>
+                            <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Analyze_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Analyze View</span></a>
+                          </li>
+                      </ul>
+                  </li>
                   <li>
                       <div class="nav-link px-0 align-middle ">
                         <a href="#submenu4" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
@@ -90,19 +121,7 @@
                           </li>
                       </ul>
                   </li>
-                  <li>
-                      <div class="nav-link px-0 align-middle ">
-                        <a href="#submenu5" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                          <i class="fs-4 bi-file-earmark-text"></i> <span class="ms-1 d-none d-sm-inline">Design Changes</span></a></div>
-                      <ul class=" collapse nav flex-column ms-1" id="submenu5" data-bs-parent="#menu">
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/2_15_Design_Review_Notes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">2/15 Design Review Notes</span> 1</a>
-                          </li>
-                          <li class="w-100">
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/2_18_Design_Change_Document.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">2/18 Design Change Document</span>2</a>
-                          </li>
-                      </ul>
-                  </li>
+
               </ul>
               <hr>
 
