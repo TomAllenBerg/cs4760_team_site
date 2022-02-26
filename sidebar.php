@@ -46,6 +46,9 @@
                           <li>
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_18_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/18) </a>
                           </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/2_25_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (2/25) </a>
+                          </li>
                       </ul>
                   </li>
                   <li>
