@@ -25,6 +25,8 @@
 										  <h2>Group 1</h2>
 										</div>
 										<hr/>
+										<iframe src="https://2021-sd-ui.github.io/1/" title="3D_rone" style="width: 100%; height: 60vh;"></iframe>
+										<p class="de-emphasized-text">This is a snapshot of the 3D version of the app. Open the full site <a class="de-emphasized-text" href="https://2021-sd-ui.github.io/1/">here</a></p>
 										<div>
 										  <h3>Application Background</h3>
 										  <p>Large buildings must be routinely inspected in order to ensure safety. Specifically, buildings such as sports arenas must have the ceiling trusses inspected. Each "joint/node" where the truss meets must be visually inspected for defects. Traditionally, this has been an arduous process, done by using scissor lifts and continually going up/down many times in order to cover the entire space. This obviously is very inefficient and slow. Due to the difficult nature of the task, it was not uncommon for these inspections to be skipped altogether. With the advent of modern drone technology, the task of inspecting large buildings has been streamlined.

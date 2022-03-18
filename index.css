@@ -24,3 +24,7 @@ img {
 	height:auto;
 	width:75%;
 }
+
+.de-emphasized-text {
+	color: #a09fa0 !important;
+}

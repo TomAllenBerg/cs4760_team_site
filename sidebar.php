@@ -122,6 +122,9 @@
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Domain-Description.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Domain Description</span></a>
                           </li>
+                          <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/miscellaneous/Usability-Test-Sessions.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Usability Test Schedule</span></a>
+                          </li>
                       </ul>
                   </li>
 
