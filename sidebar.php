@@ -14,10 +14,13 @@
                   <li>
                       <div class="nav-link px-0 align-middle ">
                         <a href="#submenu0" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                          <i class="fs-4 bi-lightbulb"></i> <span class="ms-1 d-none d-sm-inline">Prototypes</span></a></div>
+                          <i class="fs-4 bi-lightbulb"></i> <span class="ms-1 d-none d-sm-inline">Designs</span></a></div>
                       <ul class="collapse nav flex-column ms-1" id="submenu0" data-bs-parent="#menu">
                           <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/prototype/CognitiveWalkthroughPresentation.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Cognitive Walkthrough</span> </a>
+                          </li>
+                             <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/prototype/3D_rone_Final_Presentation.pdf" class="nav-link px-0">&#8226; <span class="d-none d-sm-inline">Final Design</span> </a>
                           </li>
                       </ul>
                   </li>
