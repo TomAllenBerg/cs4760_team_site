@@ -61,6 +61,9 @@
                           <li>
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/3_25_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (3/25) </a>
                           </li>
+                          <li>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/4_1_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (4/1) </a>
+                          </li>
                       </ul>
                   </li>
                   <li>
@@ -117,6 +120,9 @@
                           </li>
                             <li class="w-100">
                               <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/Analyze_View.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Updated Analyze View</span></a>
+                          </li>
+                            <li class="w-100">
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/design-changes/final_design_changes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Final Design Changes</span></a>
                           </li>
                       </ul>
                   </li>
