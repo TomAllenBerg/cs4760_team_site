@@ -65,7 +65,7 @@
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/4_1_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (4/1) </a>
                           </li>
                           <li>
-                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/4_8_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (4/1) </a>
+                              <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/4_8_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting</span> (4/8) </a>
                           </li>
                             <li>
                               <a href="/classes/cs4760/www/projects/s22/group1/www/team-meetings/4_19_Meeting_Minutes.pdf" class="nav-link px-0"> <span class="d-none d-sm-inline">Meeting (Final Meeting With Scientist)</span> (4/19) </a>
